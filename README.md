@@ -1,2 +1,2 @@
 # Dynamic-Programming
-problems solved dynamically 
+problems solved with memoization technique 
